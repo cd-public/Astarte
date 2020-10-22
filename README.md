@@ -42,7 +42,8 @@ simply modes from Daikon out
 ### "ref" ###
 
 This is the working document I used while drafting the Astarte paper. It is the 
-output of the toolchain process
+output of the toolchain process with my manual annotations to help keep track
+of what the different bits mean.
 
 ### Who do I talk to? ###
 
