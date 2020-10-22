@@ -10,14 +10,14 @@ run and produce as output "human readable" properties, which contain the
 necessary properties to block any of the exploits seen in Michael's thesis.
 
 The snapshots are from 5 Sept 2019.  I do have versions of this files I was
-iterating over up to 7 Nov 2019, but if my memory serves this is the snapshot
-the paper was written from because it was the first to have the coverage I was
-hoping for. I can't say I'm proud of the level of documentation due to deadline
-pressure, but the processor flow sketch is: 
+iterating over up to 7 Nov 2019, but this snapshot was preserved as 
+the paper was written from it (it was the first to have the coverage I was
+hoping for). The level of documentation is a bit sparse due to deadline
+pressure, but the toolchain flow sketch is: 
 
 	uniq_insts: qemu debug -> decls
 
-utility function to define program points. 
+utility function to define program points, not used directly.
 	
 	in_parse: qemu debug -> dtrace
 
