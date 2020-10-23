@@ -37,7 +37,7 @@ find modes from Daikon output
 	
 	inter: plain text, less readable -> plain text, more readable
 
-simply modes from Daikon out
+simplify modes from Daikon out
 
 ### "ref" ###
 
