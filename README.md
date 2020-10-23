@@ -23,7 +23,7 @@ utility function to define program points, not used directly.
 
 first pass frontend, for security labels. 
 	
-	in_one: qemu debug -> decls
+	in_one: qemu debug -> dtrace
 
 second pass frontend, for security properties. 
 	
