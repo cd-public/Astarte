@@ -9,7 +9,7 @@ end and post processor that accepted as input the debug information from a Qemu
 run and produce as output "human readable" properties, which contain the 
 necessary properties to block any of the exploits seen in Michael's thesis.
 
-The snapshots are from 5 Sept 2019.  I do have versions of this files I was
+The snapshots are from 5 Sept 2019.  I do have versions of these files I was
 iterating over up to 7 Nov 2019, but this snapshot was preserved as 
 the paper was written from it (it was the first to have the coverage I was
 hoping for). The level of documentation is a bit sparse due to deadline
@@ -29,7 +29,7 @@ second pass frontend, for security properties.
 	
 	split: daikon output -> spinfo
 
-first pass analyzer, generate splitinfo file for Daikon preconditions
+first pass analyzer and second pass front end auxiliary, generates preconditions
 	
 	moder: daikon output -> plain text, less readable
 
