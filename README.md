@@ -48,6 +48,7 @@ of what the different bits mean.
 ### Who do I talk to? ###
 
 * cd@cs.unc.edu
+* ckdeutschbein@willamette.edu
 
 ## Acknowledgements  
 
